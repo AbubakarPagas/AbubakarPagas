@@ -22,18 +22,7 @@ I'm abubakar pagas a Full Stack Web Developer and Software Developer 🚀 from N
 
  <img align="center" alt="GIF" src="https://github.com/habupagas/habupagas/blob/main/raw/code.gif?raw=true?raw=true" width="500" height="320" />
 
- 📊 **This Week I Spent My Time On:**
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-Dart         15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+
 
 
 🚧 **My Todoist Stats:**
