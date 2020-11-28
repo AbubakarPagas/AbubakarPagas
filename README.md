@@ -20,7 +20,7 @@ I'm abubakar pagas a Full Stack Web Developer and Software Developer 🚀 from N
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)[![c++ Badge](https://img.shields.io/badge/-c++-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)](#)[![dart Badge](https://img.shields.io/badge/-dart-2b62cf?style=for-the-badge&labelColor=black&logo=dart&logoColor=2b62cf)](#)[![angular Badge](https://img.shields.io/badge/-angular-ed1834?style=for-the-badge&labelColor=black&logo=angular&logoColor=ed1834)](#)[![java Badge](https://img.shields.io/badge/-java-3097bf?style=for-the-badge&labelColor=black&logo=java&logoColor=3097bf)](#)
 
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/habupagas/habupagas/blob/main/raw/code.gif?raw=true?raw=true" width="500" height="320" />
 
  📊 **This Week I Spent My Time On:**
 #### Coding Stats
