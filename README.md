@@ -22,6 +22,9 @@ I'm abubakar pagas a Full Stack Web Developer and Software Developer 🚀 from N
 
  <img align="center" alt="GIF" src="https://github.com/habupagas/habupagas/blob/main/raw/code.gif?raw=true?raw=true" width="500" height="320" />
 
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
