@@ -25,7 +25,8 @@ I'm abubakar pagas a Full Stack Web Developer and Software Developer 🚀 from N
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-
+YAML         22 mins         ████████████████████░░░░░   80.41 % 
+Dart         5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 ```
 <!--END_SECTION:waka-->
 
