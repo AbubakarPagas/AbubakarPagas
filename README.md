@@ -22,13 +22,13 @@ I'm abubakar pagas a Full Stack Web Developer and Software Developer 🚀 from N
 
  <img align="center" alt="GIF" src="https://github.com/habupagas/habupagas/blob/main/raw/code.gif?raw=true?raw=true" width="500" height="320" />
 
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-Dart   10 hrs 58 mins  ████████████████████████▒   96.84 % 
-YAML   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-```
-<!--END_SECTION:waka-->
+
+
+
+
+
+
+
 
 
 
