@@ -35,7 +35,7 @@ I'm abubakar pagas a Full Stack Web Developer and Software Developer 🚀 from N
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  6,128 Karma Points           
-🌸  Completed 0 tasks today           
+🌸  Completed 178 tasks today           
 ✅  Completed 450 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
